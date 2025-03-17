@@ -1,6 +1,6 @@
 const TelegramBot = require('node-telegram-bot-api');
 const axios = require('axios');
-const { alldown } = require('nayan-media-downloader');
+const { alldown } = require('nayan-videos-downloader');
 const fs = require('fs');
 
 const callbackDataStore = {};
